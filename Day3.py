@@ -1,4 +1,4 @@
-#Concatenate
+#Concatenatation
 #print()
 
 food=input("Name a food :")
