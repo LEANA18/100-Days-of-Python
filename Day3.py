@@ -1,3 +1,6 @@
+#Concatenate
+#print()
+
 food=input("Name a food :")
 plant=input("Nmae a type of plant :")
 cook=input("Name a method of cooking :")
